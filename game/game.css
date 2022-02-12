@@ -1,0 +1,32 @@
+canvas {
+    display: block;
+    border: 1px solid black;
+    margin: 1em auto;
+}
+
+#message {
+    padding-top: 20px;
+    text-align: center;
+    color: red;
+}
+
+section {
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    padding: 10px;
+    font-size: 20px;
+}
+
+#easy {
+    color: green;
+}
+
+#normal {
+    color: red;
+}

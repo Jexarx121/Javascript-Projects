@@ -6,5 +6,7 @@ webscraper - Python webscraper using the BeautifulSoup library to get coronaviru
 
 asteroid - Java game using Javafx to recreate basic asteroid game, following OOP principles
 
+game - First JS game with event handling
+
 flask - Python website using Flask library to integrate with a website and database
 
